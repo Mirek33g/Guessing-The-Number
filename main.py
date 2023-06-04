@@ -48,5 +48,7 @@ if difficulty  == "hard":
   
 elif difficulty == "easy":
   print("You have 10 attempts to guess the number")
-  checking(10)
+  checking(10) 
+
+#commit
   
